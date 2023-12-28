@@ -1,1 +1,1 @@
-A purpose of this course work was to compare some gradient deep learning optimizers (to be more exact - SGD, Adagrad, RMSprop and Adam) in tasks of stock price prediction.
+A purpose of this course work was to compare some gradient deep learning optimizers (to be more exact - SGD, Adagrad, RMSprop and Adam) in tasks of stock price prediction. For this purpose was chosen datasets with stock prices of Nestle and Apple, downloaded from Yahoo! Finance.
